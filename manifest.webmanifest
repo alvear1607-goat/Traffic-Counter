@@ -1,0 +1,17 @@
+{
+  "name": "Aforo Vehicular",
+  "short_name": "Aforo",
+  "description": "Conteo vehicular manual por intervalos, con exportación a Excel.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1B2430",
+  "theme_color": "#1B2430",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
